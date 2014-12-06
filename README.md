@@ -4,7 +4,7 @@ Adds functionality for easily toggling a target window's state in AutoHotKey.
 
 ## Installation
 
-TODO: Describe the installation process
+Simply include "WinFade.ahk" in your script.
 
 ## Usage
 
