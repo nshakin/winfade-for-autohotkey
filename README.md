@@ -1,6 +1,6 @@
 # WinFade for AutoHotKey
 
-Adds functionality for easily toggling a target window's state for AutoHotKey.
+Adds functionality for easily toggling a target window's state in AutoHotKey.
 
 ## Installation
 
